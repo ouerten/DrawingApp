@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1478036596 source:c:\users\buðra\desktop\paint2\main.c
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+	<png.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"string.h"
+	<il.h>
+	<ilu.h>
+	<ilut.h>
+
+1478036916 source:c:\users\oðuzhan\desktop\paint2\paint2\main.c
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+	<png.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"string.h"
+	<il.h>
+	<ilu.h>
+	<ilut.h>
+
